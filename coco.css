@@ -1,0 +1,443 @@
+body
+{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+   overflow-x: hidden;
+   font-family: Arial,Helvetica,sans-serif;
+}
+.header
+{
+    
+    width: 100%;
+    height: 120px;
+    background-color: #ffffff ;
+    margin-top: 10px;
+    position: relative;
+}
+   
+.coco-logo
+{
+    margin-left: 40%;
+    width: 300px;
+}
+.home
+{
+    display: inline-block;
+    text-decoration: none;
+    font-style: normal;
+    cursor: pointer;
+    list-style-type: none;
+    margin-left: 40px;
+    color: #1c0500;
+    font-size: 17px;
+    
+    font-family: Arial,Helvetica,sans-serif;
+    line-height: 1.3em;
+}
+.cat-select
+{
+    margin-top: -20px;
+    margin-left: 367px;
+}
+.home-1
+{
+    display: inline-block;
+    text-decoration: none;
+    font-style: normal;
+    cursor: pointer;
+    list-style-type: none;
+    margin-left: 15px;  
+}
+.home::after
+{
+content: '';
+display: block;
+width: 0;
+height: 2px;
+background: red;
+
+}
+.home:hover::after
+{
+    width: 100%;
+    
+}
+
+.icon-header
+{
+    width: 19px;
+}
+
+
+.section-1
+{
+    
+width: 100%;
+height: 650px;
+background-image: url(adding\ happiness\ homepage\ desktop.jpg);
+background-position: center;
+background-size: cover;
+}
+.text-part-1
+{
+    padding-top: 300px;
+    padding-left: 160px;
+}
+.head-1
+{
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    color: rgba(255,255,255,1.00);
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.para-1
+{
+
+    color: rgb(255, 255, 255);
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    margin-top: -19px;
+    font-family: Calibri;
+    font-weight: 700;
+}
+.learn-more-1
+{
+    margin-left: 146px;
+    margin-top: 10px;
+}
+.btn-1
+{
+    width: 130px;
+    height: 33px;
+    border: none;
+    background: transparent;
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.section-2
+{
+   
+width: 100%;
+height: 650px;
+background-image: url(homepage\ sustainability\ 2.jpg);
+background-position: center;
+background-size: cover;
+}
+.text-part-2
+{
+    padding-top: 300px;
+    padding-left: 160px;
+}
+.head-2
+{
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    color: rgba(255,255,255,1.00);
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.para-2
+{
+
+    color: rgb(255, 255, 255);
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    margin-top: -19px;
+    font-family: Calibri;
+    font-weight: 700;
+}
+.learn-more-2
+{
+    margin-left: 146px;
+    margin-top: 10px;
+}
+.btn-2
+{
+    width: 130px;
+    height: 33px;
+    border: none;
+    background: transparent;
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.section-3
+{
+   
+width: 100%;
+height: 650px;
+background-image: url(Water\ Stewardship\ -\ Desktop.jpg);
+background-position: center;
+background-size: cover;
+}
+.text-part-3
+{
+    padding-top: 300px;
+    padding-left: 160px;
+}
+.head-3
+{
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    color: rgba(255,255,255,1.00);
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.para-3
+{
+
+    color: rgb(255, 255, 255);
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    margin-top: -19px;
+    font-family: Calibri;
+    font-weight: 700;
+}
+.learn-more-3
+{
+    margin-left: 146px;
+    margin-top: 10px;
+}
+.btn-3
+{
+    width: 130px;
+    height: 33px;
+    border: none;
+    background: transparent;
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.section-4
+{
+   
+width: 100%;
+height: 650px;
+background-image: url(world\ without\ waste\ .jpg);
+background-position: center;
+background-size: cover;
+}
+.text-part-4
+{
+    padding-top: 300px;
+    padding-left: 160px;
+}
+.head-4
+{
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    color: rgba(255,255,255,1.00);
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.para-4
+{
+
+    color: rgb(255, 255, 255);
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    margin-top: -19px;
+    font-family: Calibri;
+    font-weight: 700;
+}
+.learn-more-4
+{
+    margin-left: 146px;
+    margin-top: 10px;
+}
+.btn-4
+{
+    width: 130px;
+    height: 33px;
+    border: none;
+    background: transparent;
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.section-5
+{
+   
+width: 100%;
+height: 650px;
+background-image: url(1f1e4806-6a73-40ba-9234-ea63a40b1224.jpg);
+background-position: center;
+background-size: cover;
+}
+.text-part-5
+{
+    padding-top: 274px;
+    padding-left: 1000px;
+}
+.head-5
+{
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    color: rgba(255,255,255,1.00);
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.para-5
+{
+
+    color: rgb(255, 255, 255);
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    margin-top: -19px;
+    font-family: Calibri;
+    font-weight: 700;
+}
+.learn-more-5
+{
+    margin-left: 984px;
+    margin-top: 10px;
+}
+.btn-5
+{
+    width: 130px;
+    height: 33px;
+    border: none;
+    background: transparent;
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.section-6
+{
+   
+width: 100%;
+height: 650px;
+background-image: url(journey-desktop-banner-4-1440x650.jpg);
+background-position: center;
+background-size: cover;
+}
+.text-part-6
+{
+    padding-top: 120px;
+    padding-left: 160px;
+}
+.head-6
+{
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    color: rgba(255,255,255,1.00);
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.para-6
+{
+
+    color: rgb(255, 255, 255);
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    margin-top: -19px;
+    font-family: Calibri;
+    font-weight: 700;
+}
+.learn-more-6
+{
+    margin-left: 146px;
+    margin-top: 10px;
+}
+.btn-6
+{
+    width: 130px;
+    height: 33px;
+    border: none;
+    background: transparent;
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.footer
+{
+    width: 100%;
+    height: 330px;
+    background-color: rgba(74,74,74,255);
+}
+.left-section
+{
+    width: 50%;
+    float: left;
+    
+}
+.right-section
+{
+    width: 50%;
+    float: left;
+    
+}
+.logo-final
+{
+    width: 250px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.footer-text-1
+{
+    margin-left: 39px;
+    color: #e2e0e0;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.footer-text-2
+{
+    margin-left: 39px;
+    color: white;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-size: 15px;
+    line-height: 17px;
+    max-width: 40rem;
+}
+.last
+{
+    display: inline-block;
+    text-decoration: none;
+    font-style: normal;
+    cursor: pointer;
+    list-style-type: none;
+    margin-left: 40px;
+    color: white;
+    font-size: 15px;
+    
+}
+.vl
+{
+    color: white;
+}
+.footer-table
+{
+    margin-left: 241px;
+    margin-top: 87px;
+}
+.data{
+    padding-right: 17px;
+}
+.footer-logo-1
+{
+    margin-left: 390px;
+    margin-top: 40px;
+}
+.social-logo
+{
+    margin-right: 12px;
+    cursor: pointer;
+}
